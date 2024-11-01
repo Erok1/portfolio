@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+
+#round {
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+}
+#play {
+    margin: 0 auto;
+    display: block;
+}
+img{
+    width: 100px;
+}
+#left{
+    margin-top: 100px;
+    margin-right: 250px;
+    margin-bottom: 100px;
+}
+.images {
+    text-align: center;
+}
+.stars {
+    text-align: center;
+    display: inline;
+
+    margin-left: 300px;
+    margin-right: 100px;
+
+}
+.stars2{
+    margin-left: 50px;
+    text-align: center;
+    display: inline;
+
+}
+
+#lost {
+    color: white;
+    text-align: center;
+    display: none;
+}
